@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-3.13+-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Library-flutter_map-1E3A8A?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="flutter_map" />
+  <img src="https://img.shields.io/badge/Library-flutter_map-1E3A8A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="flutter_map" />
 </p>
 
 ---
